@@ -1,2 +1,2 @@
-# Repositorio-de-prueba
-Repositorio modulo 2
+Alejo Osuna
+Este es un repositorio de prueba clonado de forma local de github
